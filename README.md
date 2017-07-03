@@ -1,0 +1,1 @@
+This repository includes my solution for question in book called Programming in Haskell. (2nd edition) Everything published here is under the GNU License. I'm always happy to hear your feedback about my code.(Optimizations, some corner cases etc.)
